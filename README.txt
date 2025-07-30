@@ -1,0 +1,1 @@
+RisparmioSmart Vercel-ready placeholder content.
